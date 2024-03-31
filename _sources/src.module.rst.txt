@@ -1,0 +1,50 @@
+Submodules
+__________
+
+src.note\_module.copy module
+____________________________________
+
+.. automodule:: src.note_module.copy
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.note\_module.management module
+__________________________________________________________
+
+.. automodule:: src.note_module.management
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.note\_module.record module
+___________________________________________
+
+.. automodule:: src.note_module.record
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.note\_module.security module
+___________________________________
+
+.. automodule:: src.note_module.security
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.note\_module.style module
+______________________________________________
+
+.. automodule:: src.note_module.style
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.note\_module.text module
+______________________________________________
+
+.. automodule:: src.note_module.text
+   :members:
+   :undoc-members:
+   :show-inheritance:
